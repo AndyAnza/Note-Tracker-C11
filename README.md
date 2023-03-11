@@ -1,7 +1,4 @@
 # Note-Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
-
-## Description
-
 This is a Note Tracker that can be used to write and save notes.
 
 ## URL
